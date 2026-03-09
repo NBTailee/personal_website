@@ -23,7 +23,7 @@ repository               : "personal_website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "images/profile.png"
   name             : "Le Duc Tai"
   pronouns         : # example: "she/her"  
   bio              : "I am a passionate AI learner who interested in NLP, LLM, Web Agent."
