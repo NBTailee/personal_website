@@ -15,8 +15,8 @@ Education
 
 Work experience
 ======
-* July 2025: Machine Learning Engineer
-  * Grab
+* July 2025 to now: **Machine Learning Engineer**
+  * **Grab**
   * Built a multi-agent AI system to transform free-form user input into structured automation workflows (nodes and edges).
   * Implemented NODE-SELECTOR Agent to identify required node types and a RAG-based NODESCHEMA Agent to dynamically generate schemas using a vector database.
   * Developed NODE-CONSTRUCTOR Agent and EDGE-CONSTRUCTOR Agent to build workflow components, followed by a REFINE/JUDGE Agent for validation and correction. Integrated human-in-the-loop feedback.
@@ -25,15 +25,12 @@ Work experience
   * Using AirFlow to schedule anual data embedding inject to PostgresQL.
 
 
-* July 2023: Research Assistant
+* July 2023: **Research Assistant**
   * University of Information Technology of Ho Chi Minh city (UIT)
-  * Duties included: Merging pull requests
+  * Duties included: Conducting 4 workshop research papers in NLP/LLM.
   * Supervisor: Dr. Dang Van Thin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Conducting 4 research paper in NLP/LLM topics
-  * Supervisor: Professor Git
+
   
 
 Publications
