@@ -1,7 +1,7 @@
 ---
 title: "Classification of Racial Stereotypes in Spanish With Ensemble Learning Methods and BERT-based Adapter Head"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-iberlef-stereotype-classification
 excerpt: "Detecting racial stereotypes in Spanish text using ensemble learning methods and BERT-based adapter heads."
 date: 2024-09-01
