@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Information Technology of Ho Chi Minh city (UIT), 2023 - 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2025: Machine Learning Engineer
+  * Grab
+  * Built a multi-agent AI system to transform free-form user input into structured automation workflows (nodes and edges).
+  * Implemented NODE-SELECTOR Agent to identify required node types and a RAG-based NODESCHEMA Agent to dynamically generate schemas using a vector database.
+  * Developed NODE-CONSTRUCTOR Agent and EDGE-CONSTRUCTOR Agent to build workflow components, followed by a REFINE/JUDGE Agent for validation and correction. Integrated human-in-the-loop feedback.
+  * Researched, optimized, and deployed Vision Language Models (VLLMs) for large-scale OCR tasks across Malaysia, the Philippines, Indonesia, and Vietnam for Merchants onboarding process to surpass 97% accuracy.
+  * Achieved sub-2.5 second inference time per request through model and pipeline optimizations with Quantization, Qlora and VLLM serving.
+  * Using AirFlow to schedule anual data embedding inject to PostgresQL.
 
-* Fall 2015: Research Assistant
-  * GitHub University
+
+* July 2023: Research Assistant
+  * University of Information Technology of Ho Chi Minh city (UIT)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Dang Van Thin
 
 * Summer 2015: Research Assistant
   * GitHub University
-  * Duties included: Tagging issues
+  * Duties included: Conducting 4 research paper in NLP/LLM topics
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +42,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
