@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Computer Science student at the University of Information Technology (UIT), Ho Chi Minh City, and a member of the Machine Learning team of the UIT AI Club. My work focuses on designing AI systems that combine reasoning, retrieval, and structured workflows to solve real-world problems.
+I am currently a Computer Science student at the University of Information Technology **(UIT)**, Ho Chi Minh City, and **Machine Learning Engineer** at **Grab**. I am also a member of the Machine Learning team of the UIT AI Club. My work focuses on designing AI systems that combine reasoning, retrieval, and structured workflows to solve real-world problems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 Research Interests
 ======
