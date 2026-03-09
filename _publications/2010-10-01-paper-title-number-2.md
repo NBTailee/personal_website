@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "MMLabUIT at CoMeDi Shared Task: Text Embedding Techniques versus Generation-Based NLI for Median Judgment Classification"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2025-coling-comedi
+excerpt: "A comparison between embedding-based approaches and generation-based natural language inference models for median judgment classification."
+date: 2025-01-01
+venue: "CoMeDi Shared Task – COLING 2025"
+paperurl: "https://aclanthology.org/2025.comedi-1.11/"
+citation: "Le Duc Tai et al. (2025). &quot;MMLabUIT at CoMeDi Shared Task: Text Embedding Techniques versus Generation-Based NLI for Median Judgment Classification.&quot; <i>COLING 2025 Workshop</i>."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work explores two different approaches to median judgment classification:  
+embedding-based representations and generation-based natural language inference methods.  
+Our system compares the effectiveness of these strategies within the CoMeDi shared task.
