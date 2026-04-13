@@ -39,4 +39,4 @@ Publications
 Who Am I ???????????
 ======
 - I can be a **chef**
-![chef](images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)  
+![chef](../images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)  
