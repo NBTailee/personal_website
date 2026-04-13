@@ -30,6 +30,22 @@ Work experience
   * Duties included: Conducting 4 workshop research papers in NLP/LLM.
   * Supervisor: Dr. Dang Van Thin  
 
+* 2021 to 2024: **Catering service**
+  * **Organization**: **Who ever hire me**
+  * Duties included: Setting up the table, chair, Napkin folding, decorating the cuisines, and pouring the beer. ^_^
+
+* 2023: **Marriage Banner Decorator**
+  * **Organization**: **My neighbor**
+  * Duties included: Setting up and decorating everything in a wedding. :))))))))
+  
+* 2023 (it only lasted for 2 weeks): **Loader**
+  * **Organization**: **My DAD HIREd me**
+  * Duties included: I need to carry a 50-70 kg bag of beans. I CAN'T survive with this job LOLOL.
+
+* 2020: **Food Delivery (Shipper)**
+  * **Organization**: **Grab**
+  * Duties included: SHIPPING FOOD !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -38,5 +54,18 @@ Publications
 
 Who Am I ???????????
 ======
-- I can be a **chef**
-![chef](../images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)  
+- I can be a **Chef**
+![chef](../images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)
+
+- I can be a **Mechanic**
+![mechanic](../images/0661f1ea-d2c3-4a6d-bcc8-5e1fe2591be0.jpg)
+
+- I can be an **Apocalypse Survivor**
+![mechanic](../images/01148b53-ed46-4f9c-b0a7-2d80b5397210.jpg)
+
+- I was a **Shipper** (this is my part-time job when I was in grade 10)
+![mechanic](../images/064c8d3d-b538-42ec-b9ff-7216bbe1a77b.jpg)
+
+
+
+
