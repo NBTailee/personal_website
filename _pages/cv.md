@@ -28,14 +28,15 @@ Work experience
 * July 2023: **Research Assistant**
   * **Organization**: **University of Information Technology of Ho Chi Minh city (UIT)**
   * Duties included: Conducting 4 workshop research papers in NLP/LLM.
-  * Supervisor: Dr. Dang Van Thin
-
-
-  
+  * Supervisor: Dr. Dang Van Thin  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Who Am I ???????????
+======
+- I can be a **chef**
+![chef](images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)  
