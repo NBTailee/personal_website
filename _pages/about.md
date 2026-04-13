@@ -92,4 +92,4 @@ Databases
 
 This portfolio documents my journey as an AI engineer and researcher,
 focusing on building intelligent systems that combine LLMs,
-retrieval pipelines, and scalable ML infrastructure.akes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+retrieval pipelines, and scalable ML.
