@@ -39,7 +39,7 @@ Work experience
   * Duties included: Setting up and decorating everything in a wedding. :))))))))
   
 * 2023 (it only lasted for 2 weeks): **Loader**
-  * **Organization**: **My DAD HIREd me**
+  * **Organization**: **My DAD HIRED me**
   * Duties included: I need to carry a 50-70 kg bag of beans. I CAN'T survive with this job LOLOL.
 
 * 2020: **Food Delivery (Shipper)**
@@ -52,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Who Am I ???????????
+Who Am I when I was in high school ???????????
 ======
 - I can be a **Chef**
 ![chef](../images/467875f1-06f1-4f0d-954b-595cc2928b93.jpg)
@@ -65,6 +65,9 @@ Who Am I ???????????
 
 - I was a **Shipper** (this is my part-time job when I was in grade 10)
 ![mechanic](../images/064c8d3d-b538-42ec-b9ff-7216bbe1a77b.jpg)
+
+- I was a **NERD**
+![mechanic](../images/430f9bb0-ed59-4bc0-b26a-efa6290c29f6.jpg)
 
 
 
